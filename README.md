@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @VIPUL5UTHAR
 - 👀 I’m interested in web dev and web3
-- 🌱 I’m currently learning javascript and tailwind css
+- 🌱 I’m currently learning react and react three fiber
 - 💞️ I’m looking to collaborate on open source projects 
-- 📫 you can contact me on email (vipulsuthar9351@gmail.com)
-- 😄 Pronouns: he/she
+- 📫 you can contact me on email (vipulsutharwork@gmail.com)
 - ⚡ Fun fact: i am fast learner
 
 <!---
